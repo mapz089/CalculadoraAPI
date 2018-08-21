@@ -8,6 +8,7 @@ El unico prerrequisito para correr este proyecto es tener visual studio 2015 o s
 
 #Paso a paso
 1. Abrir la solucion en visual studio.
+
 2. Correr el proyecto por defecto los servicios estan expuestos en la url http://localhost:9000/
   *http://localhost:9000/api/calculator/add
     -body
@@ -41,4 +42,5 @@ El unico prerrequisito para correr este proyecto es tener visual studio 2015 o s
     {
     "Id": "ABC123"
     }
-  3.Consumir los servicios desde una aplicacion como Postman.
+
+3.Consumir los servicios desde una aplicacion como Postman.
